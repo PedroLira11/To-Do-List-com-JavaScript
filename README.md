@@ -1,5 +1,5 @@
 # To-Do-List-com-JavaScript
-O README do Todo Avançado apresenta um aplicativo de lista de tarefas com recursos de adição, edição, exclusão e filtragem. Personalizável via CSS, ele oferece uma maneira eficaz de gerenciar tarefas com armazenamento local. Convida colaboradores e detalha a licença.
+Todo Avançado apresenta um aplicativo de lista de tarefas com recursos de adição, edição, exclusão e filtragem. Personalizável via CSS, ele oferece uma maneira eficaz de gerenciar tarefas com armazenamento local. Convida colaboradores e detalha a licença.
 
 # **To do List Avançado**
 
