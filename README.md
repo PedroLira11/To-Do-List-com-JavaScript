@@ -38,7 +38,7 @@ O aplicativo utiliza o armazenamento local do navegador para manter o registro d
 
 ## **Autor**
 
-Seu Pedro Lira
+Pedro Lira
 
 ## **Contribuição**
 
